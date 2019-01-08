@@ -1,4 +1,4 @@
-# Mnist
+# Mnist Convolution
 <b>Convolution:</b>
 A Convolution is combined integration of two functions and its show that how one functions modified the shape of the others. 
 Eg. Signal processing in electrical engineering. 
