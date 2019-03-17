@@ -4,7 +4,7 @@ A Convolution is combined integration of two functions and its show that how one
 Eg. Signal processing in electrical engineering. 
 It is a combination of input image as well as feature detector (Kernel, Filter). 
 Please check some basic parameters below which we are using in convolutional layer.
-
+Click <a href="http://mlaileader.com/post/convolution/7">here</a>. to check the details implementation
   <b>•	Size of the input image:</b> ( E.g. n= 7 x 7 x nc) nc Number of channel (RGB colored nc = 3)
 
   <b>•	Padding (P =1 or 2):</b> Its very useful when we have important feature on edge (it can give us same size image 
